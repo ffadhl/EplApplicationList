@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SubmissionJetpackCompose</string>
+    <string name="search_hint">Search Clubs</string>
+    <string name="blankData">Blank Data</string>
+    <string name="home">Home</string>
+    <string name="save">Save</string>
+    <string name="aboutMe">About Me</string>
+    <string name="blankSave">No Saved Clubs</string>
+    <string name="desc">Description</string>
+    <string name="goBack">Back</string>
+    <string name="clubDetail">Club Detail</string>
+    <string name="saved">Saved</string>
+    <string name="deleteSave">Delete Save</string>
+    <string name="savedList">Saved List</string>
+</resources>
